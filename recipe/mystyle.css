@@ -48,15 +48,15 @@ a:hover{
 
 h1{
 
- font-family: Verdana,Arial,sans-serif;
+  font-family: Verdana,Arial,sans-serif;
 
- font-size: 120%;
+  font-size: 120%;
 
- color: #334d55;
+  color: #334d55;
 
- margin: 0px;
+  margin: 0px;
 
- padding: 0px;
+  padding: 0px;
 
 }
 
@@ -140,11 +140,11 @@ h4{
 
 #main {
 
-        padding: 10px;
+  padding: 10px;
 
   border-top: 1px solid #E2EAEF;
 
-        float: left;
+  float: left;
 
   width: 60%;
 
@@ -152,7 +152,7 @@ h4{
 
 #news {
 
-        padding: 5px;
+  padding: 5px;
 
   border-top: 1px solid #E2EAEF;
 
@@ -160,11 +160,11 @@ h4{
 
   background-color: #f3f6f8;
 
-        float: right;
+  float: right;
 
   width: 22%;
 
-        min-height: 275px;
+  min-height: 275px;
 
   }
 
@@ -172,9 +172,9 @@ h4{
 
 #footer {
 
-        clear: both;
+  clear: both;
 
-        text-align: center;
+  text-align: center;
 
   padding: 7px;
 
